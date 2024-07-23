@@ -1,11 +1,11 @@
 # DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI
 ## Table of Contents
 * [Introduction](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI?tab=readme-ov-file#introduction)
-* [Documentation]
-* [Code]
-* [Usage]
-* [Result Snapshots]
-* [Tools]
+* [Documentation](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/blob/main/README.md#documentation)
+* [Code](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/blob/main/README.md#code)
+* [Usage](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/blob/main/README.md#usage)
+* [Result Snapshots](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/blob/main/README.md#result-snapshots)
+* [Tools](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/blob/main/README.md#tools)
 
 
 ## Introduction
