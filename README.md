@@ -12,10 +12,10 @@
 Welcome to my Deepfake Detection and Prevention project! In this comprehensive approach, I utilize advanced AI techniques to tackle the growing challenge of deepfake images. By leveraging machine learning algorithms and neural networks, this project aims to identify and mitigate the impact of manipulated images. You'll find detailed documentation, code implementations, and datasets used to train and test our models. Whether you're a researcher, developer, or just curious about AI's role in combating digital misinformation, this repository offers valuable insights and tools to understand and counter deepfakes effectively.
 
 ## Documentation
-Check out the documentation of the project by clicking here!
+Check out the documentation of the project by clicking [here]!
 
 ## Code
-Check out the code of the project by clicking here!
+Check out the code of the project by clicking [here](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/tree/main/Code)!
 
 ## Usage
 **1. Clone the repository:** Clone the repository to your local machine.<br>
